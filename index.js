@@ -1,4 +1,3 @@
-// 15. DK
 const apiKey = "beae74855eafa98753f400716c6a31cf";
 const apiUrl = `https://api.openweathermap.org/data/2.5/weather?
 appid=${apiKey}&units=metric&q=`;
